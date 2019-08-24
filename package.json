@@ -1,6 +1,6 @@
 {
   "name": "url-domain-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get domain name from url",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
     "url",
     "link",
     "domain-name"
+  ],
+  "files": [
+    "index.js"
   ],
   "author": "Arshad Kazmi",
   "license": "MIT",
