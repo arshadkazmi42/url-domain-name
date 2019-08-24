@@ -1,0 +1,33 @@
+{
+  "name": "url-domain-name",
+  "version": "1.0.0",
+  "description": "Get domain name from url",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/url-domain-name.git"
+  },
+  "keywords": [
+    "domain",
+    "url",
+    "link",
+    "domain-name"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/url-domain-name/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/url-domain-name#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
