@@ -1,6 +1,6 @@
 {
   "name": "url-domain-name",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get domain name from url",
   "main": "index.js",
   "scripts": {
