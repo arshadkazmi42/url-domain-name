@@ -1,6 +1,6 @@
 {
   "name": "url-domain-name",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get domain name from url",
   "main": "index.js",
   "scripts": {
@@ -29,8 +29,8 @@
   "homepage": "https://github.com/arshadkazmi42/url-domain-name#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
     "eslint": "^5.11.1",
-    "eslint-config-strongloop": "^2.1.0"
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^5.2.0"
   }
 }
