@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/url-domain-name.svg)](https://github.com/arshadkazmi42/url-domain-name/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/url-domain-name.svg)](https://github.com/arshadkazmi42/url-domain-name/commits/master)
 
-
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/url-domain-name.svg)](https://travis-ci.com/arshadkazmi42/url-domain-name/)
-
 Get domain name from url
 
 ## Install
